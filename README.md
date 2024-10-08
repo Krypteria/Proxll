@@ -44,6 +44,8 @@ D:\Proxll\template> mingw32-make.exe
 [*] Compiling proxy DLL (x64)
 [+] Proxy DLL generated at \template\bin
 ```
+
+*Note: Proxll uses debug prints to give feedback during the execution process of the resulting DLL. These prints can be viewed with [DebugView](https://learn.microsoft.com/es-es/sysinternals/downloads/debugview).*
   
 ## TL;DR Proxy DLL & Proxll approach
 In this section, I’ll explain what a proxy DLL is. If you're already familiar with the concept, feel free to skip ahead.
